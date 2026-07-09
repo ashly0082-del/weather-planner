@@ -1,3 +1,7 @@
+<head>
+   <meta name="google-site-verification" content="imORxqCGXuICPvpT0PpqnW2JbCzv72Qumei9PmkB7kM" />
+    </head>
+
 # プライバシーポリシー
 
 「Weather Planner：癒やしの天気予報＆おみくじ」（以下、「本アプリ」といいます）を開発する BeePub（以下、「当方」といいます）は、ユーザーのプライバシーを尊重し、以下の通りプライバシーポリシーを定めます。
